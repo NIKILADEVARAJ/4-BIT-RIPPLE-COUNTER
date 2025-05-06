@@ -72,7 +72,7 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
  Developed by:     Nikila D 
  RegisterNumber: 24900699
-
+```
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
 ![prgm12 rtl](https://github.com/user-attachments/assets/e75b91b0-e4fc-4c5f-a8ab-1b0a4fb5abd9)
@@ -81,8 +81,6 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
 ![12op](https://github.com/user-attachments/assets/d33a16da-aa0f-42dd-a215-07edc8196410)
-
-```
 
 **RESULTS**
 
